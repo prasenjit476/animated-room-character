@@ -2,7 +2,7 @@
   "name": "animated-room-character",
   "version": "1.0.0",
   "description": "Mobile AR app that shows an animated character in the corner of your room",
-  "main": "./App.tsx",
+  "main": "index.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
