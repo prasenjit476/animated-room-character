@@ -11,7 +11,7 @@
       }
     },
     "android": {
-      "permissions": ["CAMERA"]
+      "permissions": ["CAMERA", "android.permission.DETECT_SCREEN_CAPTURE"]
     },
     "web": {
       "favicon": "./assets/favicon.png"
